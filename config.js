@@ -11,7 +11,7 @@ global.ownername = process.env.OWNER_NAME || "David Cyril";
 global.packname = process.env.PACK_NAME || "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒";
 global.author = process.env.AUTHOR || "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋";
 global.channelname = process.env.CHANNEL_NAME || "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋";
-global.channeljid = process.env.CHANNEL_JID || "120363315231436175@newsletter";
+global.channeljid = process.env.CHANNEL_JID || "923220817547@newsletter";
 
 // Auto-Features
 global.autoTyping = toBool(process.env.AUTO_TYPING);
